@@ -6,8 +6,7 @@ langchain-community>=0.2.11
 pydantic>=2.8
 python-dotenv>=1.0.1
 faiss-cpu
-serpapi
-google-search-results
+google-search-results==2.4.2
 keybert
 streamlit
 langchain-anthropic
@@ -21,7 +20,6 @@ scikit-learn>=1.3.0
 pdfminer.six>=20231228
 requests>=2.31.0
 beautifulsoup4>=4.12.0
-serpapi
 playwright
 beautifulsoup4
 readability-lxml
