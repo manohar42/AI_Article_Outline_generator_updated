@@ -7,6 +7,7 @@ pydantic>=2.8
 python-dotenv>=1.0.1
 faiss-cpu>=1.8.0
 google-search-results
+google-search-results
 keybert
 streamlit
 langchain-anthropic
