@@ -1,0 +1,521 @@
+{
+  "topic": "Reasons for Heart attack.",
+  "keywords": {
+    "primary": "heart attack causes",
+    "secondary": [
+      "high blood pressure",
+      "diabetes and heart attack",
+      "smoking and heart health",
+      "heart failure",
+      "chest discomfort",
+      "family history heart attack",
+      "unhealthy diet",
+      "stress and heart health",
+      "obesity and heart disease",
+      "lifestyle choices heart attack"
+    ],
+    "lsi": [
+      "arteries causing",
+      "pain symptoms",
+      "attacks coronary",
+      "heart problem",
+      "inflammation and heart disease",
+      "heart damaged",
+      "attack myocardial",
+      "sudden cardiac"
+    ]
+  },
+  "user_preferences": {
+    "tone": "professional",
+    "audience": "healthcare professionals"
+  },
+  "serper_results": [
+    {
+      "organic": [
+        {
+          "title": "Heart attack - Symptoms & causes - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+          "snippet": "A heart attack occurs when the flow of blood to the heart is severely reduced or blocked. The blockage is usually due to a buildup of fat, cholesterol and ...",
+          "sitelinks": [
+            {
+              "title": "Overview",
+              "link": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106#overview"
+            },
+            {
+              "title": "Symptoms",
+              "link": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106#symptoms"
+            },
+            {
+              "title": "When to see a doctor",
+              "link": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106#when-to-see-a-doctor"
+            },
+            {
+              "title": "Causes",
+              "link": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106#causes"
+            }
+          ],
+          "position": 1
+        },
+        {
+          "title": "Causes of heart attack - NHS",
+          "link": "https://www.nhs.uk/conditions/heart-attack/causes/",
+          "snippet": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die.",
+          "position": 2
+        },
+        {
+          "title": "Heart Attack: Symptoms & Treatment - Cleveland Clinic",
+          "link": "https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction",
+          "snippet": "Most heart attacks happen because of a blockage in one of the blood vessels that supply your heart. Most often, this occurs because of plaque, a sticky ...",
+          "position": 3
+        },
+        {
+          "title": "Heart Attack - Causes and Risk Factors | NHLBI, NIH",
+          "link": "https://www.nhlbi.nih.gov/health/heart-attack/causes",
+          "snippet": "The most common cause of a heart attack is coronary artery disease, which is the most common type of heart disease.",
+          "date": "Mar 24, 2022",
+          "position": 4
+        },
+        {
+          "title": "About Heart Attack Symptoms, Risk, and Recovery - CDC",
+          "link": "https://www.cdc.gov/heart-disease/about/heart-attack.html",
+          "snippet": "Coronary artery disease (CAD) is the main cause of heart attack. A less common cause is a severe spasm, or sudden contraction, of a coronary ...",
+          "date": "Oct 24, 2024",
+          "sitelinks": [
+            {
+              "title": "Men",
+              "link": "https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html"
+            },
+            {
+              "title": "Women",
+              "link": "https://www.cdc.gov/heart-disease/about/women-and-heart-disease.html"
+            },
+            {
+              "title": "Risk Factors",
+              "link": "https://www.cdc.gov/heart-disease/risk-factors/index.html"
+            }
+          ],
+          "position": 5
+        },
+        {
+          "title": "Heart attack - NHS",
+          "link": "https://www.nhs.uk/conditions/heart-attack/",
+          "snippet": "Causes of a heart attack. Coronary heart disease (CHD) is the leading cause of heart attacks. CHD is a condition in which the major blood vessels ...",
+          "sitelinks": [
+            {
+              "title": "Causes",
+              "link": "https://www.nhs.uk/conditions/heart-attack/causes/"
+            },
+            {
+              "title": "Symptoms",
+              "link": "https://www.nhs.uk/conditions/heart-attack/symptoms/"
+            },
+            {
+              "title": "Complications",
+              "link": "https://www.nhs.uk/conditions/heart-attack/complications/"
+            },
+            {
+              "title": "Treatment",
+              "link": "https://www.nhs.uk/conditions/heart-attack/treatment/"
+            }
+          ],
+          "position": 6
+        },
+        {
+          "title": "Heart Attack | Myocardial Infarction - MedlinePlus",
+          "link": "https://medlineplus.gov/heartattack.html",
+          "snippet": "A heart attack happens when blood flow to the heart suddenly becomes blocked. Without the blood coming in, the heart can't get oxygen.",
+          "date": "Jun 24, 2025",
+          "position": 7
+        },
+        {
+          "title": "Heart Attack: Symptoms & Causes | NewYork-Presbyterian",
+          "link": "https://www.nyp.org/heart/heart-attack",
+          "snippet": "A heart attack occurs when blood flow to the heart stops or is severely reduced, usually due to a blockage in the coronary arteries.",
+          "position": 8
+        },
+        {
+          "title": "What does a heart attack feel like: symptoms and warning signs • HRI",
+          "link": "https://www.hri.org.au/health/learn/cardiovascular-disease/heart-attack-causes-and-warning-signs",
+          "snippet": "A heart attack occurs when the heart is deprived of oxygen due to a blockage in one of the coronary arteries that supplies blood to the heart.",
+          "position": 9
+        }
+      ],
+      "people_also_ask": [
+        {
+          "question": "How to reduce chances of heart attack?",
+          "snippet": "STRATEGIES TO PREVENT HEART DISEASE\n1\nDon't smoke or use tobacco. ...\n2\nGet moving: Aim for at least 30 to 60 minutes of activity daily. ...\n3\nEat a heart-healthy diet. ...\n4\nMaintain a healthy weight. ...\n5\nGet quality sleep. ...\n6\nManage stress. ...\n7\nGet regular health screening tests. ...\n8\nTake steps to prevent infections.",
+          "title": "Strategies to prevent heart disease - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/heart-disease-prevention/art-20046502"
+        },
+        {
+          "question": "What is the 7 second trick to prevent heart attack?",
+          "snippet": "The “7-second trick” is a simple deep-breathing technique that helps reduce stress- a key trigger for heart attacks in young adults. Breathe in for 4 seconds, hold briefly, and exhale slowly over 3 seconds. If practiced daily for 15mins, it calms the nervous system, lowers blood pressure, and supports heart health.",
+          "title": "Heart Attack in Young Adults: Causes & 7-Second Prevention Tip",
+          "link": "https://www.pacehospital.com/heart-attack-in-young-adults-causes-7-second-trick"
+        }
+      ],
+      "related_searches": [
+        {
+          "query": "6 signs of heart attack a month before"
+        },
+        {
+          "query": "How to prevent heart attack"
+        },
+        {
+          "query": "Heart attack symptoms"
+        },
+        {
+          "query": "What causes heart attacks in young people"
+        },
+        {
+          "query": "How to stop a heart attack in 30 seconds"
+        },
+        {
+          "query": "Causes of heart attack in women"
+        },
+        {
+          "query": "Pre heart attack symptoms female"
+        },
+        {
+          "query": "How to rule out a heart attack at home"
+        }
+      ],
+      "total_results": 11
+    }
+  ],
+  "word_count": 2800,
+  "word_count_range": "2500-3100",
+  "competitor_analysis": {
+    "competitors_analyzed": 9,
+    "competitor_data": [
+      {
+        "url": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106",
+        "title": "Heart attack - Symptoms & causes - Mayo Clinic",
+        "headings": [],
+        "topics_covered": [],
+        "word_count": 17,
+        "products_mentioned": [],
+        "meta_description": ""
+      },
+      {
+        "url": "https://www.nhs.uk/conditions/heart-attack/causes/",
+        "title": "Causes of heart attack\n - NHS",
+        "headings": [
+          {
+            "level": "h2",
+            "text": "Help us improve our website"
+          }
+        ],
+        "topics_covered": [
+          "Help us improve our website"
+        ],
+        "word_count": 19,
+        "products_mentioned": [],
+        "meta_description": "Find out about the causes of heart attacks."
+      },
+      {
+        "url": "https://my.clevelandclinic.org/health/diseases/16818-heart-attack-myocardial-infarction",
+        "title": "Heart Attack: Symptoms & Treatment",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "How is a heart attack treated?"
+          },
+          {
+            "level": "h3",
+            "text": "How soon after treatment will I feel better?"
+          }
+        ],
+        "topics_covered": [
+          "How is a heart attack treated?",
+          "How soon after treatment will I feel better?"
+        ],
+        "word_count": 617,
+        "products_mentioned": [],
+        "meta_description": "A heart attack (myocardial infarction) is a life-threatening medical emergency where your heart muscle begins to die because it isn’t getting enough blood flow."
+      },
+      {
+        "url": "https://www.nhlbi.nih.gov/health/heart-attack/causes",
+        "title": "Heart Attack - Causes and Risk Factors | NHLBI, NIH",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "Other causes of a heart attack"
+          }
+        ],
+        "topics_covered": [
+          "Other causes of a heart attack"
+        ],
+        "word_count": 522,
+        "products_mentioned": [],
+        "meta_description": "Learn about causes and risk factors for heart attacks."
+      },
+      {
+        "url": "https://www.cdc.gov/heart-disease/about/heart-attack.html",
+        "title": "About Heart Attack Symptoms, Risk, and Recovery | Heart Disease | CDC",
+        "headings": [
+          {
+            "level": "h2",
+            "text": "What it is"
+          },
+          {
+            "level": "h2",
+            "text": "Symptoms"
+          },
+          {
+            "level": "h3",
+            "text": "Call 9-1-1 if you notice symptoms of a heart attack"
+          },
+          {
+            "level": "h2",
+            "text": "Risk factors"
+          },
+          {
+            "level": "h2",
+            "text": "What to do to recover after a heart attack"
+          }
+        ],
+        "topics_covered": [
+          "What it is",
+          "Symptoms",
+          "Call 9-1-1 if you notice symptoms of a heart attack",
+          "Risk factors",
+          "What to do to recover after a heart attack"
+        ],
+        "word_count": 717,
+        "products_mentioned": [],
+        "meta_description": "Coronary artery disease (CAD) is the main cause of heart attack."
+      },
+      {
+        "url": "https://www.nhs.uk/conditions/heart-attack/",
+        "title": "Heart attack\n - NHS",
+        "headings": [
+          {
+            "level": "h2",
+            "text": "Symptoms of a heart attack"
+          },
+          {
+            "level": "h2",
+            "text": "Treating heart attacks"
+          },
+          {
+            "level": "h2",
+            "text": "Causes of a heart attack"
+          },
+          {
+            "level": "h2",
+            "text": "Recovering from a heart attack"
+          },
+          {
+            "level": "h2",
+            "text": "Complications of a heart attack"
+          },
+          {
+            "level": "h2",
+            "text": "Preventing a heart attack"
+          },
+          {
+            "level": "h2",
+            "text": "Video: heart attack"
+          }
+        ],
+        "topics_covered": [
+          "Symptoms of a heart attack",
+          "Treating heart attacks",
+          "Causes of a heart attack",
+          "Recovering from a heart attack",
+          "Complications of a heart attack",
+          "Preventing a heart attack",
+          "Video: heart attack"
+        ],
+        "word_count": 800,
+        "products_mentioned": [],
+        "meta_description": "Find out about heart attacks, a serious medical emergency in which the supply of blood to the heart is suddenly blocked, usually by a blood clot."
+      },
+      {
+        "url": "https://medlineplus.gov/heartattack.html",
+        "title": "Heart Attack | Myocardial Infarction | MedlinePlus",
+        "headings": [],
+        "topics_covered": [],
+        "word_count": 394,
+        "products_mentioned": [],
+        "meta_description": "Over a million people in the U.S. have a heart attack each year. Learn the symptoms and get help quickly to prevent permanent heart damage and death."
+      },
+      {
+        "url": "https://www.nyp.org/heart/heart-attack",
+        "title": "Heart Attack: Symptoms & Causes | NewYork-Presbyterian",
+        "headings": [],
+        "topics_covered": [],
+        "word_count": 164,
+        "products_mentioned": [],
+        "meta_description": "Heart attacks occur when part of the heart does not get enough blood. Learn more about the signs and symptoms of heart attacks from NewYork-Presbyterian."
+      },
+      {
+        "url": "https://www.hri.org.au/health/learn/cardiovascular-disease/heart-attack-causes-and-warning-signs",
+        "title": "What does a heart attack feel like: symptoms and warning signs • HRI",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "The main causes of heart attack"
+          }
+        ],
+        "topics_covered": [
+          "The main causes of heart attack"
+        ],
+        "word_count": 328,
+        "products_mentioned": [],
+        "meta_description": "Learn about heart attack warning signs and how to identify if someone is having one. Get insight on potential risks and prevention strategies."
+      }
+    ],
+    "common_topics": [
+      "symptoms",
+      "video: heart attack",
+      "what to do to recover after a heart attack",
+      "how soon after treatment will i feel better?",
+      "help us improve our website",
+      "complications of a heart attack",
+      "what it is",
+      "other causes of a heart attack",
+      "causes of a heart attack",
+      "treating heart attacks",
+      "preventing a heart attack",
+      "risk factors",
+      "call 9-1-1 if you notice symptoms of a heart attack",
+      "symptoms of a heart attack",
+      "the main causes of heart attack",
+      "recovering from a heart attack",
+      "how is a heart attack treated?"
+    ],
+    "content_gaps": [],
+    "avg_word_count": 397,
+    "avg_sections": 1
+  },
+  "research_context": "",
+  "content_gaps": [],
+  "content_strategy": {
+    "content_type": "Informational Article",
+    "search_intent": "Learn about the causes of heart attacks",
+    "target_audience": "general audience",
+    "estimated_word_count": 2800,
+    "priority_score": 7.16
+  },
+  "outline": {
+    "title": "Complete Guide to Heart Attack Causes",
+    "meta_description": "Discover everything about heart attack causes. Expert insights and recommendations.",
+    "content_type": "Informational Article",
+    "search_intent": "Learn about the causes of heart attacks",
+    "target_audience": "general audience",
+    "total_word_count": 2800,
+    "sections": [
+      {
+        "section_id": "introduction",
+        "section_title": "What is Heart Attack Causes?",
+        "short_description": "Introduction and overview",
+        "target_keywords": [
+          "heart attack causes"
+        ],
+        "suggested_word_count": 300,
+        "subsections": [
+          "Overview",
+          "Key Benefits"
+        ],
+        "research_notes": [
+          "Define the topic clearly"
+        ]
+      }
+    ],
+    "faqs": [],
+    "content_gaps_addressed": [],
+    "internal_link_opportunities": []
+  },
+  "version_history": [],
+  "current_version": 1,
+  "user_feedback": "",
+  "feedback_intent": "",
+  "errors": [],
+  "processing_time": {},
+  "confidence_scores": {
+    "keyword_analysis": 0.85,
+    "serper_research": 0.9,
+    "competitor_analysis": 0.8,
+    "content_strategy": 0.9
+  },
+  "research_metadata": {
+    "topic": "Reasons for Heart attack.",
+    "timestamp": "2025-10-06T16:21:38.329239",
+    "urls_found": 9,
+    "content_length": 18197,
+    "total_keywords": 66,
+    "keybert_keywords": 50,
+    "ai_keywords": 16
+  },
+  "research_articles_content": "",
+  "all_extracted_keywords": [
+    "arteries causing",
+    "fatigue heartburn",
+    "heart attack causes",
+    "pain symptoms",
+    "smoking and heart health",
+    "heart disease risk factors",
+    "high blood pressure",
+    "attacks coronary",
+    "symptom chest",
+    "heart problem",
+    "heart causes",
+    "heart failure",
+    "sudden cardiac",
+    "chest pain",
+    "complications heart",
+    "causes coronary",
+    "inflammation and heart disease",
+    "attack heart",
+    "pain chest",
+    "heart damaged",
+    "attack myocardial",
+    "heart attack",
+    "myocardial infarction",
+    "diabetes and heart attack",
+    "lifestyle choices heart attack",
+    "rupture heart",
+    "gender differences heart attack",
+    "heart attacks",
+    "coronary spasm",
+    "stress and heart health",
+    "atypical symptoms",
+    "unhealthy diet",
+    "effects heart",
+    "family history heart attack",
+    "cholesterol levels",
+    "attack coronary",
+    "obesity and heart disease",
+    "damage heart",
+    "physical inactivity",
+    "heart damage",
+    "pressure angina",
+    "major symptoms",
+    "symptoms heart",
+    "discomfort heart",
+    "myocardial infarctions",
+    "heart suddenly",
+    "age and heart attack risk",
+    "heart rupture",
+    "spontaneous coronary",
+    "affect heart",
+    "severity heart",
+    "severe symptoms",
+    "heartburn",
+    "attack symptoms",
+    "preventive measures heart attack",
+    "threatening symptoms",
+    "causes heart",
+    "symptoms severe",
+    "symptoms",
+    "discomfort symptoms",
+    "signs symptoms",
+    "affected heart",
+    "chest discomfort",
+    "coronary heart",
+    "heart triggering",
+    "suffer heart"
+  ]
+}

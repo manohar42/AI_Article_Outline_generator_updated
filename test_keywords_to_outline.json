@@ -1,0 +1,407 @@
+{
+  "topic": "",
+  "keywords": {
+    "primary": "AI in healthcare",
+    "secondary": [
+      "machine learning in medicine",
+      "medical AI applications",
+      "healthcare automation",
+      "clinical decision support",
+      "medical image analysis",
+      "predictive healthcare analytics"
+    ],
+    "lsi": [
+      "artificial intelligence medicine",
+      "healthcare machine learning",
+      "clinical AI systems",
+      "medical diagnosis AI",
+      "patient care automation"
+    ]
+  },
+  "user_preferences": {
+    "tone": "professional",
+    "depth": "comprehensive"
+  },
+  "serper_results": [
+    {
+      "organic": [
+        {
+          "title": "Artificial intelligence in healthcare: transforming the practice of ...",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/",
+          "snippet": "AI is a powerful and disruptive area of computer science, with the potential to fundamentally transform the practice of medicine and the delivery of healthcare.",
+          "position": 1
+        },
+        {
+          "title": "Artificial Intelligence (AI) in Healthcare & Medical Field",
+          "link": "https://www.foreseemed.com/artificial-intelligence-in-healthcare",
+          "snippet": "Healthcare AI systems can analyze patterns in a patient's medical history and current health data to predict potential health risks. This predictive capability ...",
+          "position": 2
+        },
+        {
+          "title": "7 ways AI is transforming healthcare - The World Economic Forum",
+          "link": "https://www.weforum.org/stories/2025/08/ai-transforming-global-health/",
+          "snippet": "7 ways AI is transforming healthcare · AI can interpret brain scans · AI can spot more bone fractures than humans can · Assessing ambulance ...",
+          "date": "Aug 13, 2025",
+          "position": 3
+        },
+        {
+          "title": "AI in Healthcare Specialization - Coursera",
+          "link": "https://www.coursera.org/specializations/ai-healthcare",
+          "snippet": "What you'll learn · Identify problems healthcare providers face that machine learning can solve · Analyze how AI affects patient care safety, quality, and ...",
+          "position": 4
+        },
+        {
+          "title": "Benefits and Risks of AI in Health Care: Narrative Review - PMC",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11612599/",
+          "snippet": "AI in healthcare offers benefits like accurate diagnoses and personalized treatment, but risks include biases, lack of transparency, data privacy concerns, and ...",
+          "position": 5
+        },
+        {
+          "title": "AI in Medicine | NEJM",
+          "link": "https://www.nejm.org/ai-in-medicine",
+          "snippet": "AI in Medicine explores the history and vast potential of artificial intelligence and machine learning across all areas of health care.",
+          "position": 6
+        },
+        {
+          "title": "Artificial Intelligence in healthcare - Public Health - European ...",
+          "link": "https://health.ec.europa.eu/ehealth-digital-health-and-care/artificial-intelligence-healthcare_en",
+          "snippet": "AI in healthcare helps with resource allocation, enhances diagnostics, personalizes treatment, and transforms the pharmaceutical sector, also driving public ...",
+          "position": 7
+        },
+        {
+          "title": "Artificial intelligence in healthcare - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare",
+          "snippet": "Artificial intelligence in healthcare is the application of artificial intelligence (AI) to analyze and understand complex medical and healthcare data.",
+          "position": 8
+        },
+        {
+          "title": "AI for healthcare - Imperial College London",
+          "link": "https://www.imperial.ac.uk/stories/healthcare-ai/",
+          "snippet": "AI offers a real opportunity in healthcare, not only to automate some of the problem-solving carried out by doctors and other medical professionals.",
+          "sitelinks": [
+            {
+              "title": "Pooling Clinical Experience",
+              "link": "https://www.imperial.ac.uk/stories/healthcare-ai/#:~:text=Pooling%20clinical%20experience"
+            },
+            {
+              "title": "Sharing Ai Solutions",
+              "link": "https://www.imperial.ac.uk/stories/healthcare-ai/#:~:text=Sharing%20AI%20solutions"
+            },
+            {
+              "title": "Consulting An Ai Clinician",
+              "link": "https://www.imperial.ac.uk/stories/healthcare-ai/#:~:text=Consulting%20an%20AI%20clinician"
+            }
+          ],
+          "position": 9
+        }
+      ],
+      "people_also_ask": [
+        {
+          "question": "What are three ways AI will change healthcare by 2030?",
+          "snippet": "The year 2030 may be just around the corner, but the future of healthcare it promises is already taking shape. With AI as its potent engine, healthcare is poised for a transformative journey, one that prioritizes prevention, personalizes treatment, and democratizes access for all.",
+          "title": "3 Ways AI Will Transform Healthcare: A Glimpse into 2030 | Kindo Blog",
+          "link": "https://www.kindo.ai/blog/how-ai-will-change-healthcare-by-2030"
+        },
+        {
+          "question": "What jobs will medical AI replace?",
+          "snippet": "“AI is augmenting workflows, accelerating diagnosis, and streamlining administrative tasks.” Roles in medical coding, documentation, and scheduling are already supported—or in some cases replaced—by intelligent systems.",
+          "title": "Will AI Replace Healthcare Jobs? Experts Weigh In | 3B",
+          "link": "https://3bhealthcare.us/will-ai-replace-healthcare-jobs/"
+        }
+      ],
+      "related_searches": [
+        {
+          "query": "AI in healthcare course"
+        },
+        {
+          "query": "AI in healthcare examples"
+        },
+        {
+          "query": "AI in healthcare articles"
+        },
+        {
+          "query": "AI in healthcare pros and cons"
+        },
+        {
+          "query": "AI in healthcare jobs"
+        },
+        {
+          "query": "Disadvantages of AI in healthcare"
+        },
+        {
+          "query": "AI in healthcare research paper"
+        },
+        {
+          "query": "Benefits of AI in healthcare"
+        }
+      ],
+      "total_results": 11
+    }
+  ],
+  "word_count": 3200,
+  "word_count_range": "2900-3500",
+  "competitor_analysis": {
+    "competitors_analyzed": 5,
+    "competitor_data": [
+      {
+        "url": "https://www.foreseemed.com/artificial-intelligence-in-healthcare",
+        "title": "Artificial Intelligence (AI) in Healthcare & Medical Field",
+        "headings": [],
+        "topics_covered": [],
+        "word_count": 482,
+        "products_mentioned": [],
+        "meta_description": "Discover the benefits and examples of AI in healthcare with ForeSee \r\nMedical. ✓ Learn how artificial intelligence helps the medical field & \r\nimproves care."
+      },
+      {
+        "url": "https://www.coursera.org/specializations/ai-healthcare",
+        "title": "AI in Healthcare | Coursera",
+        "headings": [],
+        "topics_covered": [],
+        "word_count": 280,
+        "products_mentioned": [],
+        "meta_description": "Offered by Stanford University.  Enroll for free."
+      },
+      {
+        "url": "https://health.ec.europa.eu/ehealth-digital-health-and-care/artificial-intelligence-healthcare_en",
+        "title": "Artificial Intelligence in healthcare - Public Health - European Commission",
+        "headings": [
+          {
+            "level": "h2",
+            "text": "Transforming the future of medicine"
+          },
+          {
+            "level": "h2",
+            "text": "Challenges of integrating AI in healthcare"
+          },
+          {
+            "level": "h2",
+            "text": "EU legislation shaping AI in healthcare"
+          },
+          {
+            "level": "h3",
+            "text": "The AI Act"
+          },
+          {
+            "level": "h3",
+            "text": "The European Health Data Space Regulation (EHDS)"
+          },
+          {
+            "level": "h3",
+            "text": "Product Liability Directive"
+          },
+          {
+            "level": "h2",
+            "text": "AICare@EU (Deployment of AI in Healthcare)"
+          }
+        ],
+        "topics_covered": [
+          "Transforming the future of medicine",
+          "Challenges of integrating AI in healthcare",
+          "EU legislation shaping AI in healthcare",
+          "The AI Act",
+          "The European Health Data Space Regulation (EHDS)",
+          "Product Liability Directive",
+          "AICare@EU (Deployment of AI in Healthcare)"
+        ],
+        "word_count": 2102,
+        "products_mentioned": [
+          "The European Health Data Space Regulation (EHDS)"
+        ],
+        "meta_description": "In the healthcare sector, artificial intelligence refers to computer systems that can perform tasks that typically require human intelligence, learning, problem"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare",
+        "title": "Artificial intelligence in healthcare - Wikipedia",
+        "headings": [
+          {
+            "level": "h2",
+            "text": "Applications in healthcare systems"
+          },
+          {
+            "level": "h3",
+            "text": "Electronic health records"
+          },
+          {
+            "level": "h3",
+            "text": "AlphaFold and drug discovery"
+          },
+          {
+            "level": "h3",
+            "text": "Workload management"
+          },
+          {
+            "level": "h2",
+            "text": "Clinical applications"
+          },
+          {
+            "level": "h3",
+            "text": "Obstetrics and gynaecology"
+          },
+          {
+            "level": "h3",
+            "text": "Infectious diseases"
+          },
+          {
+            "level": "h3",
+            "text": "Smaller companies, applications"
+          },
+          {
+            "level": "h2",
+            "text": "Expanding care to developing nations"
+          },
+          {
+            "level": "h3",
+            "text": "United Nations (WHO/ITU)"
+          },
+          {
+            "level": "h3",
+            "text": "Privacy and data collection"
+          },
+          {
+            "level": "h3",
+            "text": "Technological unemployment"
+          },
+          {
+            "level": "h3",
+            "text": "Bias and discrimination"
+          }
+        ],
+        "topics_covered": [
+          "Applications in healthcare systems",
+          "Electronic health records",
+          "AlphaFold and drug discovery",
+          "Workload management",
+          "Clinical applications",
+          "Obstetrics and gynaecology",
+          "Infectious diseases",
+          "Smaller companies, applications",
+          "Expanding care to developing nations",
+          "United Nations (WHO/ITU)",
+          "Privacy and data collection",
+          "Technological unemployment",
+          "Bias and discrimination"
+        ],
+        "word_count": 12998,
+        "products_mentioned": [],
+        "meta_description": ""
+      },
+      {
+        "url": "https://www.imperial.ac.uk/stories/healthcare-ai/",
+        "title": "AI for healthcare",
+        "headings": [
+          {
+            "level": "h3",
+            "text": "Detecting brain tumour changes"
+          }
+        ],
+        "topics_covered": [
+          "Detecting brain tumour changes"
+        ],
+        "word_count": 368,
+        "products_mentioned": [],
+        "meta_description": "Artificial intelligence offers an opportunity to automate some problem-solving by medical professionals and make quicker and better decisions than humans could "
+      }
+    ],
+    "common_topics": [
+      "detecting brain tumour changes",
+      "infectious diseases",
+      "technological unemployment",
+      "united nations (who/itu)",
+      "product liability directive",
+      "electronic health records",
+      "obstetrics and gynaecology",
+      "aicare@eu (deployment of ai in healthcare)",
+      "alphafold and drug discovery",
+      "eu legislation shaping ai in healthcare",
+      "workload management",
+      "privacy and data collection",
+      "applications in healthcare systems",
+      "smaller companies, applications",
+      "challenges of integrating ai in healthcare",
+      "the ai act",
+      "transforming the future of medicine",
+      "the european health data space regulation (ehds)",
+      "bias and discrimination",
+      "expanding care to developing nations",
+      "clinical applications"
+    ],
+    "content_gaps": [
+      {
+        "topic": "What are three ways AI will change healthcare by 2030?",
+        "description": "PAA question not covered",
+        "opportunity_score": 8
+      },
+      {
+        "topic": "What jobs will medical AI replace?",
+        "description": "PAA question not covered",
+        "opportunity_score": 8
+      }
+    ],
+    "avg_word_count": 3246,
+    "avg_sections": 4
+  },
+  "research_context": "",
+  "content_gaps": [
+    {
+      "topic": "What are three ways AI will change healthcare by 2030?",
+      "description": "PAA question not covered",
+      "opportunity_score": 8
+    },
+    {
+      "topic": "What jobs will medical AI replace?",
+      "description": "PAA question not covered",
+      "opportunity_score": 8
+    }
+  ],
+  "content_strategy": {
+    "content_type": "Article",
+    "search_intent": "Informational",
+    "target_audience": "general audience",
+    "estimated_word_count": 3200,
+    "priority_score": 7.16
+  },
+  "outline": {
+    "title": "Complete Guide to Ai In Healthcare",
+    "meta_description": "Discover everything about AI in healthcare. Expert insights and recommendations.",
+    "content_type": "Article",
+    "search_intent": "Informational",
+    "target_audience": "general audience",
+    "total_word_count": 3200,
+    "sections": [
+      {
+        "section_id": "introduction",
+        "section_title": "What is Ai In Healthcare?",
+        "short_description": "Introduction and overview",
+        "target_keywords": [
+          "AI in healthcare"
+        ],
+        "suggested_word_count": 300,
+        "subsections": [
+          "Overview",
+          "Key Benefits"
+        ],
+        "research_notes": [
+          "Define the topic clearly"
+        ]
+      }
+    ],
+    "faqs": [],
+    "content_gaps_addressed": [],
+    "internal_link_opportunities": []
+  },
+  "version_history": [],
+  "current_version": 1,
+  "user_feedback": "",
+  "feedback_intent": "",
+  "errors": [],
+  "processing_time": {},
+  "confidence_scores": {
+    "keyword_analysis": 0.85,
+    "serper_research": 0.9,
+    "competitor_analysis": 0.8,
+    "content_strategy": 0.9
+  },
+  "research_metadata": {},
+  "research_articles_content": "",
+  "all_extracted_keywords": []
+}

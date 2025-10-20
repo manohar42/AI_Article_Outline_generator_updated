@@ -1,0 +1,46 @@
+{
+  "title": "Complete Guide to AI in Healthcare",
+  "content_type": "comprehensive guide",
+  "intent": "informational",
+  "target_audience": "healthcare professionals and administrators",
+  "total_words": 2200,
+  "sections": [
+    {
+      "title": "What is AI in Healthcare?",
+      "word_count": 440,
+      "description": "Introduction and definition of AI in Healthcare"
+    },
+    {
+      "title": "Benefits of AI in Healthcare",
+      "word_count": 660,
+      "description": "Key advantages and benefits of AI in Healthcare"
+    },
+    {
+      "title": "How to Implement AI in Healthcare",
+      "word_count": 660,
+      "description": "Step-by-step guide to implementing AI in Healthcare"
+    },
+    {
+      "title": "Conclusion",
+      "word_count": 440,
+      "description": "Summary and next steps"
+    }
+  ],
+  "faqs": [
+    "What is AI in Healthcare?",
+    "How does AI in Healthcare work?",
+    "What are the benefits of AI in Healthcare?",
+    "How do I get started with AI in Healthcare?",
+    "What are the costs of AI in Healthcare?"
+  ],
+  "confidence_score": 0.5,
+  "meta_description": "Complete guide to AI in Healthcare with expert insights and practical tips.",
+  "keywords": [
+    "ai in healthcare",
+    "AI in Healthcare guide",
+    "AI in Healthcare benefits"
+  ],
+  "errors": [
+    "API call failed: Error code: 400 - {'error': {'message': \"Invalid parameter: 'response_format' of type 'json_object' is not supported with this model.\", 'type': 'invalid_request_error', 'param': 'response_format', 'code': None}}"
+  ]
+}
