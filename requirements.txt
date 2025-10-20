@@ -6,6 +6,7 @@ langchain-community>=0.2.11
 pydantic>=2.8
 python-dotenv>=1.0.1
 faiss-cpu
+serpapi
 google-search-results
 keybert
 streamlit
