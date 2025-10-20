@@ -5,8 +5,7 @@ openai
 langchain-community>=0.2.11
 pydantic>=2.8
 python-dotenv>=1.0.1
-faiss-cpu>=1.8.0
-google-search-results
+faiss-cpu
 google-search-results
 keybert
 streamlit
